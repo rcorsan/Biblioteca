@@ -1,0 +1,2 @@
+Libro{titulo='El señor de los anillos', autores=J.R.R. Tolkien, identificador='123456', categoria='Aventuras', edadRecomendada=12, prestado=false, usuarioPrestamo=N/A}
+Libro{titulo='1984', autores=George Orwell, identificador='789012', categoria='Ciencia Ficción', edadRecomendada=16, prestado=false, usuarioPrestamo=N/A}
